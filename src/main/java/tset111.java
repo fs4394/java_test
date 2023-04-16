@@ -6,5 +6,6 @@ public class tset111 {
     private String password;
     private String id;
     private String ppp;
+    private String ooo;
 
 }
